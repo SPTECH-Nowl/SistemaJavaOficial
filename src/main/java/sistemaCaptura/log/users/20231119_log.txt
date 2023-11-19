@@ -1,0 +1,24 @@
+Data/Hora: 2023-11-19
+Nome da Máquina: Desktop-SALADA
+Consumo CPU: 66%
+Consumo RAM: 8017936384 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-SALADA).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-19
+Nome da Máquina: Desktop-SALADA
+Consumo CPU: 73%
+Consumo RAM: 8012193792 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-SALADA).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-19
+Nome da Máquina: Desktop-SALADA
+Consumo CPU: 100%
+Consumo RAM: 8000884736 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-SALADA).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
