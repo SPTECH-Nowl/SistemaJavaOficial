@@ -1,6 +1,6 @@
 package sistemaCaptura;
 
-import sistemaCaptura.conexao.Conexao;
+import sistemaCaptura.conexao.ConexãoSql;
 import sistemaCaptura.user.Usuario;
 import sistemaCaptura.user.Adiministrador;
 import sistemaCaptura.user.Professor;
@@ -15,8 +15,8 @@ import java.util.Scanner;
 public class AppHistorico {
 
     public static void main(String[] args) {
-        Conexao conexao = new Conexao();
-        JdbcTemplate con = conexao.getConexaoDoBanco();
+        ConexãoSql conexao = new ConexãoSql();
+        JdbcTemplate con = conexao.getConnection();
         HistConsmRecurso histConsmRecurso = new HistConsmRecurso();
 
         Scanner in = new Scanner(System.in);

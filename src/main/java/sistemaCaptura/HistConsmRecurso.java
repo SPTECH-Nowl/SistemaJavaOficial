@@ -3,7 +3,7 @@ package sistemaCaptura;
 import com.github.britooo.looca.api.core.Looca;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
-import sistemaCaptura.conexao.Conexao;
+import sistemaCaptura.conexao.ConexãoSql;
 import sistemaCaptura.log.metodos.Logs;
 import sistemaCaptura.slack.BotSlack;
 
@@ -26,8 +26,8 @@ public class HistConsmRecurso {
     private Integer fkHardware;
     private Integer fkComponente;
 
-    Conexao conexao = new Conexao();
-    JdbcTemplate con = conexao.getConexaoDoBanco();
+    ConexãoSql conexao = new ConexãoSql();
+    JdbcTemplate con = conexao.getConnection();
     Looca looca = new Looca();
     Timer timer = new Timer();
     Timer timer02 = new Timer();
@@ -104,7 +104,7 @@ public class HistConsmRecurso {
                     throw new RuntimeException(e);
                 }
 
-Maquina maquina = obterMaquina(maquinaId);
+                Maquina maquina = obterMaquina(maquinaId);
 
                 // Chamar a função para criar e gravar no arquivo
                 logs.gerarLog(maquina, (long) consumoCpu, consumoRam, consumoDisco);
@@ -210,9 +210,9 @@ Maquina maquina = obterMaquina(maquinaId);
                     while ((linhaBusca = busca.readLine()) != null) {
                         for (Maquina.Processo processo : obterProcessos(nomeAula)) {
                             if (linhaBusca.contains(processo.getNomeAplicativo())) {
-                               strike[0] = true;
+                                strike[0] = true;
                                 System.out.println(processo.getNomeAplicativo());
-                               nomeUltimoProcesso[0] = processo.getNomeAplicativo();
+                                nomeUltimoProcesso[0] = processo.getNomeAplicativo();
                             }
                         }
                     }
