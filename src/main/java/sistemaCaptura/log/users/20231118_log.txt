@@ -1,0 +1,520 @@
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 63%
+Consumo RAM: 7980929024 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 61%
+Consumo RAM: 7974608896 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 69%
+Consumo RAM: 8058208256 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 94%
+Consumo RAM: 8050089984 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 75%
+Consumo RAM: 8028524544 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 85%
+Consumo RAM: 8009805824 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 75%
+Consumo RAM: 7796916224 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 82%
+Consumo RAM: 7835209728 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 79%
+Consumo RAM: 7865290752 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 96%
+Consumo RAM: 7827472384 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 82%
+Consumo RAM: 7873085440 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 88%
+Consumo RAM: 7893540864 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 94%
+Consumo RAM: 7786225664 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G7205
+Consumo CPU: 61%
+Consumo RAM: 7373025280 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G7205).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G7205
+Consumo CPU: 61%
+Consumo RAM: 7386882048 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G7205).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G7205
+Consumo CPU: 69%
+Consumo RAM: 7418470400 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G7205).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G7205
+Consumo CPU: 63%
+Consumo RAM: 7450275840 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G7205).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G7205
+Consumo CPU: 68%
+Consumo RAM: 7456325632 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G7205).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G7205
+Consumo CPU: 70%
+Consumo RAM: 7462637568 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G7205).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G7205
+Consumo CPU: 67%
+Consumo RAM: 7506702336 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G7205).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G7205
+Consumo CPU: 83%
+Consumo RAM: 7535489024 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G7205).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G7205
+Consumo CPU: 76%
+Consumo RAM: 7493214208 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G7205).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 58%
+Consumo RAM: 7504891904 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 58%
+Consumo RAM: 7525629952 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 61%
+Consumo RAM: 7565524992 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 55%
+Consumo RAM: 7697084416 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 94%
+Consumo RAM: 7605534720 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 87%
+Consumo RAM: 7602302976 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 85%
+Consumo RAM: 7644254208 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 94%
+Consumo RAM: 7660863488 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 84%
+Consumo RAM: 7777067008 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 91%
+Consumo RAM: 7621500928 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 99%
+Consumo RAM: 7754313728 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-C9436
+Consumo CPU: 100%
+Consumo RAM: 7627370496 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-C9436).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Laptop-XB350
+Consumo CPU: 59%
+Consumo RAM: 7254122496 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Laptop-XB350).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Laptop-XB350
+Consumo CPU: 59%
+Consumo RAM: 7291531264 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Laptop-XB350).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Laptop-XB350
+Consumo CPU: 52%
+Consumo RAM: 7358906368 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Laptop-XB350).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Laptop-XB350
+Consumo CPU: 58%
+Consumo RAM: 7165906944 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Laptop-XB350).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Laptop-XB350
+Consumo CPU: 93%
+Consumo RAM: 7178035200 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Laptop-XB350).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Laptop-XB350
+Consumo CPU: 62%
+Consumo RAM: 7265165312 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Laptop-XB350).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Laptop-XB350
+Consumo CPU: 78%
+Consumo RAM: 7544999936 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Laptop-XB350).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Laptop-XB350
+Consumo CPU: 99%
+Consumo RAM: 7577055232 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Laptop-XB350).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Laptop-XB350
+Consumo CPU: 88%
+Consumo RAM: 7584739328 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Laptop-XB350).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Laptop-XB350
+Consumo CPU: 97%
+Consumo RAM: 7398973440 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Laptop-XB350).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-F5412
+Consumo CPU: 56%
+Consumo RAM: 7536173056 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-F5412).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-F5412
+Consumo CPU: 56%
+Consumo RAM: 7543787520 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-F5412).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G3103
+Consumo CPU: 22%
+Consumo RAM: 7935762432 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G3103).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G3103
+Consumo CPU: 22%
+Consumo RAM: 7942066176 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G3103).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G3103
+Consumo CPU: 49%
+Consumo RAM: 7940120576 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G3103).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G3103
+Consumo CPU: 90%
+Consumo RAM: 7996895232 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G3103).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G3103
+Consumo CPU: 91%
+Consumo RAM: 8030199808 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G3103).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G3103
+Consumo CPU: 58%
+Consumo RAM: 8048992256 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G3103).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G3103
+Consumo CPU: 98%
+Consumo RAM: 7983874048 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G3103).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G3103
+Consumo CPU: 76%
+Consumo RAM: 8014635008 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G3103).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G3103
+Consumo CPU: 88%
+Consumo RAM: 8004321280 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G3103).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 38%
+Consumo RAM: 8078180352 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 38%
+Consumo RAM: 8100319232 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 51%
+Consumo RAM: 8116768768 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 43%
+Consumo RAM: 8119525376 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 78%
+Consumo RAM: 8089133056 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 88%
+Consumo RAM: 7873282048 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 77%
+Consumo RAM: 7349874688 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 98%
+Consumo RAM: 7389773824 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 93%
+Consumo RAM: 7735169024 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-18
+Nome da Máquina: Desktop-G1234
+Consumo CPU: 95%
+Consumo RAM: 7764824064 bytes
+Consumo Disco: 1256255239680 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-G1234).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+

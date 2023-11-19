@@ -10,11 +10,11 @@ public class ConexãoSql {
 
         dataSource.setDriverClassName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
 
-        dataSource.setUrl("jdbc:sqlserver://servidor-magister.database.windows.net:1433;database=bd-magister;user=admin-magister@servidor-magister;password=#Gfgrupo5;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;");
+        dataSource.setUrl("jdbc:sqlserver://servidor-magister.database.windows.net:1433;database=bd-magister;user=sa@servidor-magister;password=Magister123@;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;");
 
-        dataSource.setUsername("admin-magister");
+        dataSource.setUsername("sa");
 
-        dataSource.setPassword("#Gfgrupo5");
+        dataSource.setPassword("Magister123@");
 
 
         this.connection = new JdbcTemplate(dataSource);

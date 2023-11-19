@@ -223,7 +223,7 @@ Maquina maquina = obterMaquina(maquinaId);
                         System.out.println("Strike");
                         timer.cancel(); // Cancela o timer após cadastrar um "strike"
                     }else{
-                        System.out.println("Você esta limpo amigo");
+                        System.out.println("Você esta sem nenhum strike!!");
                     }
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -233,6 +233,8 @@ Maquina maquina = obterMaquina(maquinaId);
             }
         }, 5000, 15000); // Inicia após 5 segundos e repete a cada 15 segundos
     }
+
+
 
     private List<Maquina.Processo> obterProcessos(String nomeAula) {
         return con.query("SELECT idProcesso, nomeProcesso, nomeAplicativo FROM processo JOIN permissaoProcesso ON idprocesso = fkProcesso WHERE fkPermissao=(SELECT idPermissao FROM permissao WHERE nome = ?)",

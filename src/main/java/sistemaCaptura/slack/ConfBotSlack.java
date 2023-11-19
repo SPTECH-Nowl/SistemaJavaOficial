@@ -23,9 +23,6 @@ public class ConfBotSlack {
                 .build();
 
         HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
-
-
-
     }
 }
 
