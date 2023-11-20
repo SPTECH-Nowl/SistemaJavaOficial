@@ -199,7 +199,6 @@ public class HistConsmRecurso {
             public void run() {
                 try {
                     String comando = (System.getProperty("os.name").toLowerCase().contains("win")) ? "tasklist" : "ps aux";
-
                     ProcessBuilder processBuilder = new ProcessBuilder(comando);
                     processBuilder.redirectErrorStream(true);
                     Process process = processBuilder.start();
@@ -211,19 +210,18 @@ public class HistConsmRecurso {
                         for (Maquina.Processo processo : obterProcessos(nomeAula)) {
                             if (linhaBusca.contains(processo.getNomeAplicativo())) {
                                 strike[0] = true;
-                                System.out.println(processo.getNomeAplicativo());
                                 nomeUltimoProcesso[0] = processo.getNomeAplicativo();
                             }
                         }
                     }
-                    if (strike[0] == true){
+                    if (strike[0] == true) {
                         LocalDateTime dataHora = LocalDateTime.now();
                         cadastrarStrike(idMaquina, dataHora);
                         botSlack.mensagemSoftware(nomeUltimoProcesso[0], obterMaquina(idMaquina));
                         System.out.println("Strike");
                         timer.cancel(); // Cancela o timer após cadastrar um "strike"
-                    }else{
-                        System.out.println("Você esta sem nenhum strike!!");
+                    } else {
+                        System.out.println("Você esta limpo amigo");
                     }
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -237,7 +235,7 @@ public class HistConsmRecurso {
 
 
     private List<Maquina.Processo> obterProcessos(String nomeAula) {
-        return con.query("SELECT idProcesso, nomeProcesso, nomeAplicativo FROM processo JOIN permissaoProcesso ON idprocesso = fkProcesso WHERE fkPermissao=(SELECT idPermissao FROM permissao WHERE nome = ?)",
+        return con.query("SELECT idProcesso, nomeProcesso, nomeAplicativo FROM processo INNER JOIN permissaoProcesso ON idprocesso = fkProcesso WHERE fkPermissao=(SELECT idPermissao FROM permissao WHERE nome = ?)",
                 new BeanPropertyRowMapper<>(Maquina.Processo.class), nomeAula);
     }
 
