@@ -3,17 +3,12 @@ package sistemaCaptura;
 import com.github.britooo.looca.api.core.Looca;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
-import sistemaCaptura.conexao.ConexãoSql;
 import sistemaCaptura.log.metodos.Logs;
 import sistemaCaptura.slack.BotSlack;
 
 import java.io.*;
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;

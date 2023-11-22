@@ -1,0 +1,107 @@
+2023-11-20 00:14:23:--SUCCESS: O Sistema localizou 1 registro(s)  relacionado ao email ('caua.web.data.viz.gustavo.de.souza.mesquita@gmail.com') e a senha ('DataAqcuIno69@')!
+2023-11-20 00:14:29:--ERROR: O Sistema não localizou registro de maquinas na sua intituição
+2023-11-20 00:14:58:--SUCCESS: O Sistema iniciou normalmente
+2023-11-20 00:16:03:--SUCCESS: O Sistema localizou 1 registro(s)  relacionado ao email ('caua.web.data.viz.gustavo.de.souza.mesquita@gmail.com') e a senha ('DataAqcuIno69@')!
+2023-11-20 00:16:06:--SUCCESS: O Sistema localizou 1 maquina(s) registrada(s)  relacionadas a intituição!
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 62%
+Consumo RAM: 7673597952,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 62%
+Consumo RAM: 7701139456,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 66%
+Consumo RAM: 7735844864,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 67%
+Consumo RAM: 7908175872,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 98%
+Consumo RAM: 7879606272,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 72%
+Consumo RAM: 7893692416,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 95%
+Consumo RAM: 7974391808,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 88%
+Consumo RAM: 7968272384,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 69%
+Consumo RAM: 7640662016,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 83%
+Consumo RAM: 7381295104,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 77%
+Consumo RAM: 7413809152,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+Data/Hora: 2023-11-20
+Nome da Máquina: Desktop-salada
+Consumo CPU: 64%
+Consumo RAM: 7465959424,00 bytes
+Consumo Disco: 1256255239680,00 GB
+Mensagem para Suporte: Suporte foi solicitado para arrumar  a maquina (Desktop-salada).
+O consumo de CPU estourou o máximo sugerido (60%). O consumo de RAM atingiu o máximo sugerido (60%) de acordo com o nome da máquina.
+
+2023-11-20 01:03:56:--SUCCESS: O Sistema iniciou normalmente
+2023-11-20 01:04:16:--SUCCESS: O Sistema localizou 1 registro(s)  relacionado ao email ('caua.web.data.viz.gustavo.de.souza.mesquita@gmail.com') e a senha ('DataAqcuIno69@')!
+2023-11-20 01:04:18:--SUCCESS: O Sistema localizou 7 maquina(s) registrada(s)  relacionadas a intituição!
+2023-11-20 01:11:06:--SUCCESS: O Sistema iniciou normalmente
+2023-11-20 01:11:35:--SUCCESS: O Sistema localizou 1 registro(s)  relacionado ao email ('jhulia.silva@sptech.school') e a senha ('Salada123@')!
+2023-11-20 01:11:38:--SUCCESS: O Sistema localizou 8 maquina(s) registrada(s)  relacionadas a intituição!
